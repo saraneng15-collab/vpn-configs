@@ -23,6 +23,7 @@ REPO_NAME = os.environ.get("REPO_NAME")
 
 CONFIGS_DIRECTORY = "githubmirror"
 CONFIG_FILE_PATH = f"{CONFIGS_DIRECTORY}/%d.txt"
+RAW_CONFIG_FILE_PATH = f"https://raw.githubusercontent.com/{REPO_NAME}/refs/heads/master/{CONFIGS_DIRECTORY}/%d.txt"
 
 FETCH_RETRIES_COUNT = 3
 RETRY_TIMEOUT = 3
@@ -35,11 +36,12 @@ HEADERS = {
 }
 
 
-class DownloadAndSave:  # TODO to rename and remove
+class DownloadAndSave:
     def __init__(self, url: str, number: int, info: None | dict, ghapi: GihubWrapper):
         self._url = url
         self._number = number
         self._cfg_file_path = CONFIG_FILE_PATH % self._number
+        self._raw_cfg_file_path = RAW_CONFIG_FILE_PATH % self._number
         self._info = self.get_or_create_info(info=info)
         self._ghapi = ghapi
 
@@ -69,8 +71,8 @@ class DownloadAndSave:  # TODO to rename and remove
 
         return {
             "Num": self._number,
-            "File": f"[`{self._number}.txt`]({self._cfg_file_path})",
-            "Source": f"[{self.extract_source_name()}]({self._url})",
+            "File": f"[`{self._number}.txt`]({self._raw_cfg_file_path})",
+            "Source": f"{self.extract_source_name()}",
             "Update time": now_time,
             "Update date": now_date,
         }
