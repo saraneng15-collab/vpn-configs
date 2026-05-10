@@ -15,31 +15,31 @@ Automated aggregator that collects free VPN configuration files from multiple op
 
 |Num|                                                 File                                                |                    Source                    |Update time|Update date|
 |---|-----------------------------------------------------------------------------------------------------|----------------------------------------------|-----------|-----------|
-| 1 | [`1.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/1.txt) |               sakha1370/OpenRay              |   00:51   | 11.05.2026|
-| 2 | [`2.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/2.txt) |             sevcator/5ubscrpt10n             |   00:51   | 11.05.2026|
-| 3 | [`3.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/3.txt) |           yitong2333/proxy-minging           |   00:51   | 11.05.2026|
-| 4 | [`4.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/4.txt) |                 acymz/AutoVPN                |   23:51   | 10.05.2026|
-| 5 | [`5.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/5.txt) |         miladtahanian/V2RayCFGDumper         |   00:51   | 11.05.2026|
-| 6 | [`6.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/6.txt) |           roosterkid/openproxylist           |   00:51   | 11.05.2026|
-| 7 | [`7.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/7.txt) |            Epodonios/v2ray-configs           |   00:51   | 11.05.2026|
-| 8 | [`8.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/8.txt) |             CidVpn/cid-vpn-config            |   00:51   | 11.05.2026|
-| 9 | [`9.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/9.txt) |mohamadfg-dev/telegram-v2ray-configs-collector|   23:51   | 10.05.2026|
-| 10|[`10.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/10.txt)|               mheidari98/.proxy              |   00:51   | 11.05.2026|
+| 1 | [`1.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/1.txt) |               sakha1370/OpenRay              |   01:52   | 11.05.2026|
+| 2 | [`2.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/2.txt) |             sevcator/5ubscrpt10n             |   01:51   | 11.05.2026|
+| 3 | [`3.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/3.txt) |           yitong2333/proxy-minging           |   01:52   | 11.05.2026|
+| 4 | [`4.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/4.txt) |                 acymz/AutoVPN                |   01:51   | 11.05.2026|
+| 5 | [`5.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/5.txt) |         miladtahanian/V2RayCFGDumper         |   01:51   | 11.05.2026|
+| 6 | [`6.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/6.txt) |           roosterkid/openproxylist           |   01:51   | 11.05.2026|
+| 7 | [`7.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/7.txt) |            Epodonios/v2ray-configs           |   01:52   | 11.05.2026|
+| 8 | [`8.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/8.txt) |             CidVpn/cid-vpn-config            |   01:51   | 11.05.2026|
+| 9 | [`9.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/9.txt) |mohamadfg-dev/telegram-v2ray-configs-collector|   01:51   | 11.05.2026|
+| 10|[`10.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/10.txt)|               mheidari98/.proxy              |   01:51   | 11.05.2026|
 | 11|[`11.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/11.txt)|          youfoundamin/V2rayCollector         |   23:51   | 10.05.2026|
-| 12|[`12.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/12.txt)|            expressalaki/ExpressVPN           |   00:51   | 11.05.2026|
+| 12|[`12.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/12.txt)|            expressalaki/ExpressVPN           |   01:51   | 11.05.2026|
 | 13|[`13.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/13.txt)|          MahsaNetConfigTopic/config          |   13:59   | 09.05.2026|
 | 14|[`14.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/14.txt)|              LalatinaHub/Mineral             |   00:51   | 11.05.2026|
-| 15|[`15.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/15.txt)|        miladtahanian/Config-Collector        |   00:51   | 11.05.2026|
+| 15|[`15.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/15.txt)|        miladtahanian/Config-Collector        |   01:51   | 11.05.2026|
 | 16|[`16.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/16.txt)|             Pawdroid/Free-servers            |   22:12   | 09.05.2026|
-| 17|[`17.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/17.txt)|         MhdiTaheri/V2rayCollector_Py         |   23:52   | 10.05.2026|
+| 17|[`17.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/17.txt)|         MhdiTaheri/V2rayCollector_Py         |   01:52   | 11.05.2026|
 | 18|[`18.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/18.txt)|                 free18/v2ray                 |   09:34   | 10.05.2026|
-| 19|[`19.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/19.txt)|           MhdiTaheri/V2rayCollector          |   00:51   | 11.05.2026|
+| 19|[`19.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/19.txt)|           MhdiTaheri/V2rayCollector          |   01:52   | 11.05.2026|
 | 20|[`20.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/20.txt)|               Argh94/Proxy-List              |   23:52   | 10.05.2026|
 | 21|[`21.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/21.txt)|                shabane/kamaji                |   23:51   | 10.05.2026|
-| 22|[`22.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/22.txt)|         wuqb2i4f/xray-config-toolkit         |   23:51   | 10.05.2026|
+| 22|[`22.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/22.txt)|         wuqb2i4f/xray-config-toolkit         |   01:51   | 11.05.2026|
 | 23|[`23.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/23.txt)|        igareck/vpn-configs-for-russia        |   00:51   | 11.05.2026|
-| 24|[`24.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/24.txt)|                Mr-Meshky/vify                |   00:51   | 11.05.2026|
-| 25|[`25.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/25.txt)|             V2RayRoot/V2RayConfig            |   00:51   | 11.05.2026|
+| 24|[`24.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/24.txt)|                Mr-Meshky/vify                |   01:52   | 11.05.2026|
+| 25|[`25.txt`](https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/25.txt)|             V2RayRoot/V2RayConfig            |   01:51   | 11.05.2026|
 
 ## Quick Start
 
